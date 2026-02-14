@@ -16,13 +16,13 @@
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A job marketplace web platform that connects employers and workers. Employers can post jobs, workers can apply, and both parties can complete jobs with a built-in rating and reliability system to build trust.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Many small job platforms lack trust mechanisms and simple workflow management. students and freelancers struggle to find reliable workers, and workers struggle to find verified job postings.]
 
 ### The Solution
-[How are you solving it?]
+[This platform provides a secure job posting and application system with rating and reliability scoring. It ensures accountability by allowing users to rate each other after job completion, improving trust and transparency.]
 
 ---
 
@@ -31,10 +31,10 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [Python, HTML, CSS]
+- Frameworks used: [Flask]
+- Libraries used: [SQLite3]
+- Tools used: [VS Code, Git]
 
 **For Hardware:**
 - Main components: [List main components]
@@ -46,10 +46,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [User Authentication: Separate login/register for employers and workers.]
+- Feature 2: [Job Posting & Application: Employers post jobs, workers apply easily.]
+- Feature 3: [Job Management: Employers can accept, complete, or delete jobs.]
+- Feature 4: [Rating & Reliability System: Users rate each other after completion, building trust scores.]
 
 ---
 
