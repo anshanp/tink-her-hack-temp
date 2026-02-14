@@ -82,10 +82,10 @@ List the key features of your project:
 ### For Software:
 
 #### Screenshots (Add at least 3)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55479c69-0ea4-46f9-9c4b-744db4ab5a6e" />
 
-<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/0434fd74-c236-463b-ba02-dafc5d5d2e5f" />
 
-<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/602001d7-18a5-4790-b9cd-dfb70814fb79" />
+<img width="1920" heiachmght="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/602001d7-18a5-4790-b9cd-dfb70814fb79" />
 
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3dd2b410-ff87-42c0-9332-092305f4c885" />
 
