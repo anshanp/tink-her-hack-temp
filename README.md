@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/6be05668-40ad-410a-8a44-c7bc965c706f" /><p align="center">
-  <img src="./img.png" alt="Project Banner" width="100%">
+<img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
 # [SnapJob] 🎯
