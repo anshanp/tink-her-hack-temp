@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/6be05668-40ad-410a-8a44-c7bc965c706f" /><p align="center">
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
@@ -13,7 +13,7 @@
 - Member 2: [NIDHA BALKEES K V] - [GEC thrissur]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://tink-her-hack-temp-piwy.onrender.com
 
 ### Project Description
 [A job marketplace web platform that connects employers and workers. Employers can post jobs, workers can apply, and both parties can complete jobs with a built-in rating and reliability system to build trust.]
@@ -83,14 +83,11 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/0434fd74-c236-463b-ba02-dafc5d5d2e5f" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/602001d7-18a5-4790-b9cd-dfb70814fb79" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3dd2b410-ff87-42c0-9332-092305f4c885" />
 
 #### Diagrams
 
