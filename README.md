@@ -2,15 +2,15 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [SnapJob] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Altoria]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [ANISHA P] - [GEC thrissur]
+- Member 2: [NIDHA BALKEES K V] - [GEC thrissur]
 
 ### Hosted Project Link
 [mention your project hosted link here]

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Jobs</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+
+<div class="container mt-5">
+    <h2 class="mb-4">My Posted Jobs</h2>
+
+    {% for job in jobs %}
+    <div class="card mb-3 p-3 shadow">
+        <h5>{{ job[1] }}</h5>
+        <p>{{ job[2] }}</p>
+        <a href="/delete_job/{{ job[0] }}"
+         class="btn btn-danger mt-2">
+        Delete Job
+        </a>
+
+
+        <a href="/applicants/{{ job[0] }}" class="btn btn-info mt-2">
+            View Applicants
+        </a>
+
+        <p>Status: {{ job[5] }}</p>
+
+        {% if job[5] == 'In Progress' and job[6] == 0 %}
+            <a href="/payment_sent/{{ job[0] }}" 
+               class="btn btn-warning mt-2">
+               Confirm Payment Sent
+            </a>
+        {% endif %}
+
+        {% if job[5] == 'Completed' %}
+    <span class="badge bg-success mt-2">
+        Completed
+    </span>
+
+    <a href="/rate/{{ job[0] }}/{{ job[4] }}"
+       class="btn btn-primary mt-2">
+       Rate Worker
+    </a>
+        {% endif %}
+
+
+    </div>
+    {% endfor %}
+
+
+</div>
+
+</body>
+</html>
